@@ -1,0 +1,7 @@
+geopandas
+numpy
+tifffile
+Pillow
+scipy
+shapely
+scikit-image
