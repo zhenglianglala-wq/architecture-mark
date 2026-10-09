@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+tif_image_shanghai/
+tif_image_shanghai_标注/
+highrise_residential_labels/
+.DS_Store
